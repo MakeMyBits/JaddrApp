@@ -1,0 +1,27 @@
+# Ignore compiled class files
+*.class
+
+# Ignore the SQLite database file
+jaddr.db
+
+# Ignore IDE files
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Eclipse-specific files
+.project
+.classpath
+.settings/
+
+# NetBeans-specific files
+nbproject/
+
+# VSCode settings
+.vscode/
+
+# Build folders
+bin/
+build/
+out/
